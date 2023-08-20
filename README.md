@@ -37,6 +37,6 @@ Talk based on FUSION-MAP-v1.0
 
 ### Contact
 
-* [Sara Shahmohammadi](https:/https://www.hybrixcel.com/leadership//)
-* [Ofelia Jianu](https://https://www.intelligentfuelsandenergy.com/ofelia-a-jianu//)
-* [Robert Godin](https://https://chemistry.ok.ubc.ca/about/contact/robert-godin/)
+* [Sara Shahmohammadi](https:/https://www.hybrixcel.com/leadership)
+* [Ofelia Jianu](https://https://www.intelligentfuelsandenergy.com/ofelia-a-jianu)
+* [Robert Godin](https://https://chemistry.ok.ubc.ca/about/contact/robert-godin)
