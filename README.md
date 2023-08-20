@@ -6,6 +6,10 @@
 ![FCVCO-](https://github.com/IGH2A/Project-FUSION-MAP-FCINFO-FCVCO/assets/140977074/0c3f8950-642a-43d2-aeaf-525f7da52dc5)
 ![REF](https://github.com/IGH2A/Project-FUSION-MAP-FCINFO-FCVCO/assets/140977074/398f3165-d994-4605-a501-31c1598659f7)
 
+# Ongoing Implementation Efforts
+
+There is currently an implementation effort working on creating the first version of a federated, publicly verifiable registry. Go to the Registry repository to learn more about the implementation details and project status.
+
 # Getting Involved
 
 If you want to start collaborating with us, we are currently updating the Documentation to include guides on all the information you may need to start contributing to the project. If there is some information you would have liked that isn't there, we will recommend you to Create an Issue, where you can make a suggestion.
