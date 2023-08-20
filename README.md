@@ -30,3 +30,13 @@ The project has been founded as a partnership including Hybrixcel, Inc., Univers
 In the registry repository, the Trusted Committer is currently @igh2a, who will represent the partnership and advocate for the partnerships' best interests.
 
 In the origin-collaboration repositpory, the Trusted Committer is currently @igh2a, who is also responsible for setting up structures, guidelines and decision-making processes for the Project-FUSION-MAP Github organization. If you have any questions to anything, preferably post these in the Q&A in the discussion forum, and feel free to tag any of the Trusted Committers.
+
+Talk based on FUSION-MAP-v1.0
+* [Poster](https://.pdf)
+
+
+### Contact
+
+* [Sara Shahmohammadi](https:/https://www.hybrixcel.com/leadership//)
+* [Ofelia Jianu](https://https://www.intelligentfuelsandenergy.com/ofelia-a-jianu//)
+* [Robert Godin](https://https://chemistry.ok.ubc.ca/about/contact/robert-godin/)
