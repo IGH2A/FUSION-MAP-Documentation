@@ -19,9 +19,11 @@ There is currently an implementation effort working on creating the first versio
 
 # Getting Involved
 
-If you want to start collaborating with us, we are currently updating the Documentation to include guides on all the information you may need to start contributing to the project. If there is some information you would have liked that isn't there, we will recommend you to Create an Issue, where you can make a suggestion.
+This project is open-source, and our wish is for everyone interested to be part of the project and platform.
 
-You can check out our discussion forums to see ongoing and previous discussions, to ask questions, or to make suggestions. Any discussions related to the currently ongoing implementation can be found at the Registry Discussion Channels. If you have any general suggestions or questions, you should go to the Organization Discussion Channels.
+You are also welcome to fork it and use it for your own purposes, but we would hope you want to be a part of a common platform.
+
+
 
 # Who Are We?
 
