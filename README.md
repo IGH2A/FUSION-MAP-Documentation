@@ -1,4 +1,4 @@
-# Project-FUSION-MAP/FCINFO-FCVCO
+# FUSION-MAP/FCINFO-FCVCO
 
 ![Poster A2 59 4x42 cm(TRANS)](https://github.com/IGH2A/Project-FUSION-MAP-FCINFO-FCVCO/assets/140977074/96cd8e19-496c-45d5-95d6-d4dbd19ce4d5)
 ![FCVCO](https://github.com/IGH2A/Project-FUSION-MAP-FCINFO-FCVCO/assets/140977074/dd55758f-f24e-4901-b08e-7dce0083a622)
