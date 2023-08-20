@@ -2,7 +2,8 @@
 
 ![Poster A2 59 4x42 cm(TRANS)](https://github.com/IGH2A/FUSION-MAP-FCINFO-FCVCO/assets/140977074/c3a86637-042a-4257-ae17-0fe68996008a)
   
-![FCVCO](https://github.com/IGH2A/Project-FUSION-MAP-FCINFO-FCVCO/assets/140977074/dd55758f-f24e-4901-b08e-7dce0083a622)
+![MOTIV](https://github.com/IGH2A/FUSION-MAP-FCINFO-FCVCO/assets/140977074/15e0b0d7-cee3-4dfb-963f-dc326f154a8a)
+
 
 ![METHODS-DEV](https://github.com/IGH2A/Project-FUSION-MAP-FCINFO-FCVCO/assets/140977074/b59aa34b-612a-496c-ae08-e9450e6581d8)
 
