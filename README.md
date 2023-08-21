@@ -32,8 +32,8 @@ In the origin-collaboration repositpory, the Trusted Committer is currently @igh
 
 # Talk based on FUSION-MAP-v1.0
 * [Poster Represented at 2nd Consortium Acceleration Conference 2023](https://.pdf)
-* 
-* [Bruchure] (https://.pdf)
+
+* [Bruchure] 
 
 
 ### Contact
