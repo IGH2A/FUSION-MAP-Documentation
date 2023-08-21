@@ -1,14 +1,6 @@
-# Project: FUSION-MAP/FCINFO-FCVCO ((Framework for Unified Semantic Integration of ONtologies – Materials Acceleration Platform)
+# Project: FUSION-MAP((Framework for Unified Semantic Integration of ONtologies – Materials Acceleration Platform)
 
 The FUSION-MAP (Framework for Unified Semantic Integration of ONtologies – Materials Acceleration Platform) project aims to accelerate the development and deployment of green hydrogen systems through the creation of multiple ontologies. These ontologies provide a comprehensive knowledge framework to address the diverse aspects of green hydrogen production, storage, distribution, and utilization. By facilitating seamless integration of information, the FUSION-MAP project aims to enhance collaboration, enable informed decision-making, and drive innovation in the field of green hydrogen. 
-
-
-
-![FCINFO-](https://github.com/IGH2A/FUSION-MAP-FCINFO-FCVCO/assets/140977074/7539d2d8-4d0f-49f9-8599-9c41116db2cb)
-
-
-![FCVCO-](https://github.com/IGH2A/FUSION-MAP-FCINFO-FCVCO/assets/140977074/aa526547-446a-4215-85df-b476cca47c63)
-
 
 # Ongoing Implementation Efforts
 
