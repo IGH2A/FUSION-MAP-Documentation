@@ -1,4 +1,4 @@
-# Project: FUSION-MAP((Framework for Unified Semantic Integration of ONtologies – Materials Acceleration Platform)
+# Project: FUSION-MAP (Framework for Unified Semantic Integration of ONtologies – Materials Acceleration Platform)
 
 The FUSION-MAP (Framework for Unified Semantic Integration of ONtologies – Materials Acceleration Platform) project aims to accelerate the development and deployment of green hydrogen systems through the creation of multiple ontologies. These ontologies provide a comprehensive knowledge framework to address the diverse aspects of green hydrogen production, storage, distribution, and utilization. By facilitating seamless integration of information, the FUSION-MAP project aims to enhance collaboration, enable informed decision-making, and drive innovation in the field of green hydrogen. 
 
