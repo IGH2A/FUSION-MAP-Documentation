@@ -23,7 +23,7 @@ In the registry repository, the Trusted Committer is currently @igh2a, who will 
 In the origin-collaboration repositpory, the Trusted Committer is currently @igh2a, who is also responsible for setting up structures, guidelines and decision-making processes for the Project-FUSION-MAP Github organization. If you have any questions to anything, preferably post these in the Q&A in the discussion forum, and feel free to tag any of the Trusted Committers.
 
 # Talk based on FUSION-MAP-v1.0
-* [Poster Represented at 2nd Consortium Acceleration Conference 2023]https://igh2a.org/wp-content/uploads/2023/08/Brochure-Bi-fold-11x8.5-in.mp4
+* [Poster Represented at 2nd Consortium Acceleration Conference 2023](https://igh2a.org/wp-content/uploads/2023/08/Brochure-Bi-fold-11x8.5-in.mp4).
 
 * [Brochure](https://www.linkedin.com/feed/update/urn:li:activity:7083502907110670337.pdf)
 
